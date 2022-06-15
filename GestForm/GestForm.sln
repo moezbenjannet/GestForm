@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestForm", "GestForm.csproj", "{BAFAA417-D1C6-493D-87A2-E5A6ADC19048}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8A6EDDF4-ACE5-42D2-867C-169C24579DFC}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestformUnitTests", "..\GestformUnitTests\GestformUnitTests.csproj", "{C28BF73C-A78D-4611-8966-EB56BFB13826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFAA417-D1C6-493D-87A2-E5A6ADC19048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFAA417-D1C6-493D-87A2-E5A6ADC19048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFAA417-D1C6-493D-87A2-E5A6ADC19048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFAA417-D1C6-493D-87A2-E5A6ADC19048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C28BF73C-A78D-4611-8966-EB56BFB13826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C28BF73C-A78D-4611-8966-EB56BFB13826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C28BF73C-A78D-4611-8966-EB56BFB13826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C28BF73C-A78D-4611-8966-EB56BFB13826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EABB117E-0964-4412-931B-8FF54A7153E9}
+	EndGlobalSection
+EndGlobal

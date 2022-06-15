@@ -1,0 +1,13 @@
+D:\Moez\LaFrance\Akka\TestTechnique\GestForm\bin\Debug\netcoreapp3.1\GestForm.exe
+D:\Moez\LaFrance\Akka\TestTechnique\GestForm\bin\Debug\netcoreapp3.1\GestForm.deps.json
+D:\Moez\LaFrance\Akka\TestTechnique\GestForm\bin\Debug\netcoreapp3.1\GestForm.runtimeconfig.json
+D:\Moez\LaFrance\Akka\TestTechnique\GestForm\bin\Debug\netcoreapp3.1\GestForm.runtimeconfig.dev.json
+D:\Moez\LaFrance\Akka\TestTechnique\GestForm\bin\Debug\netcoreapp3.1\GestForm.dll
+D:\Moez\LaFrance\Akka\TestTechnique\GestForm\bin\Debug\netcoreapp3.1\GestForm.pdb
+D:\Moez\LaFrance\Akka\TestTechnique\GestForm\obj\Debug\netcoreapp3.1\GestForm.csprojAssemblyReference.cache
+D:\Moez\LaFrance\Akka\TestTechnique\GestForm\obj\Debug\netcoreapp3.1\GestForm.AssemblyInfoInputs.cache
+D:\Moez\LaFrance\Akka\TestTechnique\GestForm\obj\Debug\netcoreapp3.1\GestForm.AssemblyInfo.cs
+D:\Moez\LaFrance\Akka\TestTechnique\GestForm\obj\Debug\netcoreapp3.1\GestForm.csproj.CoreCompileInputs.cache
+D:\Moez\LaFrance\Akka\TestTechnique\GestForm\obj\Debug\netcoreapp3.1\GestForm.dll
+D:\Moez\LaFrance\Akka\TestTechnique\GestForm\obj\Debug\netcoreapp3.1\GestForm.pdb
+D:\Moez\LaFrance\Akka\TestTechnique\GestForm\obj\Debug\netcoreapp3.1\GestForm.genruntimeconfig.cache
